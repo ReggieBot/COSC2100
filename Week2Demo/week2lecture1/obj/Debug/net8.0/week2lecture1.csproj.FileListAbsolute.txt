@@ -1,0 +1,14 @@
+C:\Users\reggi\OneDrive\Desktop\vis\week2lecture1\bin\Debug\net8.0\week2lecture1.exe
+C:\Users\reggi\OneDrive\Desktop\vis\week2lecture1\bin\Debug\net8.0\week2lecture1.deps.json
+C:\Users\reggi\OneDrive\Desktop\vis\week2lecture1\bin\Debug\net8.0\week2lecture1.runtimeconfig.json
+C:\Users\reggi\OneDrive\Desktop\vis\week2lecture1\bin\Debug\net8.0\week2lecture1.dll
+C:\Users\reggi\OneDrive\Desktop\vis\week2lecture1\bin\Debug\net8.0\week2lecture1.pdb
+C:\Users\reggi\OneDrive\Desktop\vis\week2lecture1\obj\Debug\net8.0\week2lecture1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reggi\OneDrive\Desktop\vis\week2lecture1\obj\Debug\net8.0\week2lecture1.AssemblyInfoInputs.cache
+C:\Users\reggi\OneDrive\Desktop\vis\week2lecture1\obj\Debug\net8.0\week2lecture1.AssemblyInfo.cs
+C:\Users\reggi\OneDrive\Desktop\vis\week2lecture1\obj\Debug\net8.0\week2lecture1.csproj.CoreCompileInputs.cache
+C:\Users\reggi\OneDrive\Desktop\vis\week2lecture1\obj\Debug\net8.0\week2lecture1.dll
+C:\Users\reggi\OneDrive\Desktop\vis\week2lecture1\obj\Debug\net8.0\refint\week2lecture1.dll
+C:\Users\reggi\OneDrive\Desktop\vis\week2lecture1\obj\Debug\net8.0\week2lecture1.pdb
+C:\Users\reggi\OneDrive\Desktop\vis\week2lecture1\obj\Debug\net8.0\week2lecture1.genruntimeconfig.cache
+C:\Users\reggi\OneDrive\Desktop\vis\week2lecture1\obj\Debug\net8.0\ref\week2lecture1.dll
