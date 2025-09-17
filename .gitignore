@@ -60,3 +60,16 @@ nunit-*.xml
 *.log
 bin/
 obj/
+# Visual Studio cache
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# NuGet
+*.nupkg
+*.nuget.props
+*.nuget.targets
