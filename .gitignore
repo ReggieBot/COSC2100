@@ -53,5 +53,10 @@ CodeCoverage/
 TestResult.xml
 nunit-*.xml
 
+.vs/
+*.user
+*.suo
+*.cache
+*.log
 bin/
 obj/
