@@ -13,7 +13,7 @@
         <StackPanel Orientation="Horizontal" Margin="5">
             <Label Content="First Input:"
                            VerticalAlignment="Center"/>
-            <TextBox x:Name="Input1TextBox" Width="150" Margin="5,0"
+            <TextBox x:Name="Input1TextBox" Width="150" Margin="3,0"
                             TabIndex="0" ToolTip="Enter first number"/>
 
         </StackPanel>
