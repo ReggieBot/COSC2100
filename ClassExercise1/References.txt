@@ -1,0 +1,31 @@
+Github: https://github.com/ReggieBot/COSC2100/tree/main/ClassExercise1
+
+Exception Handling in WPF: 
+https://wpf-tutorial.com/wpf-application/handling-exceptions/
+
+Double.TryParse Method (Microsoft Docs)
+https://learn.microsoft.com/en-us/dotnet/api/system.double.tryparse?view=net-9.0
+
+Tab Order (Stack Overflow)
+https://stackoverflow.com/questions/359758/setting-tab-order-in-wpf
+
+Accesibility (Microsoft Docs)
+https://learn.microsoft.com/en-us/windows/apps/design/accessibility/keyboard-accessibility
+
+Routed Events (Microsoft Docs)
+https://learn.microsoft.com/en-us/dotnet/api/system.windows.routedeventargs?view=windowsdesktop-9.0
+
+Targets (Stack Overflow)
+https://stackoverflow.com/questions/9846910/making-usercontrols-accessible-in-wpf
+
+Targets (C-sharpCorner)
+https://www.c-sharpcorner.com/blogs/source-and-target-in-wpf-databinding1
+
+Targets (Microsoft Learn)
+https://learn.microsoft.com/en-us/dotnet/desktop/wpf/data/
+
+Focus method (Microsoft Learn)
+https://learn.microsoft.com/en-us/dotnet/desktop/wpf/advanced/focus-overviewha
+
+Application.Shutdown method (Microsoft Learn)
+https://learn.microsoft.com/en-us/dotnet/api/system.windows.application.shutdown?redirectedfrom=MSDN&view=windowsdesktop-7.0#System_Windows_Application_Shutdown
