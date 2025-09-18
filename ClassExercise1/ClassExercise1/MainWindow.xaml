@@ -11,22 +11,54 @@
         
         <!-- Input 1 -->
         <StackPanel Orientation="Horizontal" Margin="5">
-            <Label Content="First Input:"
+            <Label Content="_First Input:"
                            VerticalAlignment="Center"/>
             <TextBox x:Name="Input1TextBox" Width="150" Margin="3,0"
                             TabIndex="0" ToolTip="Enter first number"/>
-
         </StackPanel>
 
+		
         <!-- Input 2 -->
         <StackPanel Orientation="Horizontal" Margin="5">
-            <Label Content="Second Input:"
+            <Label Content="_Second Input:"
                            VerticalAlignment="Center"/>
-            <TextBox x:Name="Input2TextBox" Width="150" Margin="5,0"
-                           TabIndex="0" ToolTip="Enter first number"/>
-
+            <TextBox x:Name="Input2TextBox" Width="150" Margin="5,0" 
+                           TabIndex="1" ToolTip="Enter first number"/>
         </StackPanel>
+		
+		<!-- Button 1 and 3 (row 1) -->
+		<!-- Makes add the default method executed -->
+		<StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="5">
+			<Button x:Name="AdditionButton" Content="_Add" Width="50" Margin="5"
+				        IsDefault="True"
+                        Click="AddButton_Click"
+				        TabIndex="2"
+				        ToolTip="Click to add two numbers"/>
+			<Button x:Name="MultiplyButton" Content="_Multiply" Width="50" Margin="5"
+					    Click="MultiplyButton_Click"
+					    TabIndex="3"
+					    ToolTip="Click to multiply two numbers"/>
+		</StackPanel>
+		
+		<!-- Button 2 and 4 (row 2) -->
+		<StackPanel> Orientation="Horizontal" HorizontalAlignment="Center" Margin="5">
+		    <Button x:Name="ResetButton" Content="_Reset" Width="50" Margin="5"
+				Click="ResetButton_Click"
+				TabIndex="4"
+				ToolTip="Click to clear fields"/>
+			<Button x:Name="ExitButton" Content="_Exit" Width="50" Margin="5"
+				Click="ExitButton_Click"
+			    TabIndex="5"
+				ToolTip="Click to exit application"/>
+		</StackPanel>
+		
+		<!-- Output/Result field-->
+		<StackPanel> Orientation="Horizontal" Margin="5">
+			<Label Content="Result" VerticalAlignment="Center"/>
+			<Label x:Name="labelResult" Content="" Width="150" Margin="5,0"/>		
+		</StackPanel>
 
-    </StackPanel>
+
+	</StackPanel>
                
 </Window>
