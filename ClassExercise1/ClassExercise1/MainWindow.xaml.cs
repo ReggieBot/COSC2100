@@ -1,4 +1,10 @@
-﻿using System.Text;
+﻿// Reggie Brown
+// Last Modified: 2025 - 09 - 18
+// Class Exercise 1 - Calulator
+// Simple calculator in WPF to add and multiply two numbers
+// COSC 2100
+// Prof. Fabian
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
