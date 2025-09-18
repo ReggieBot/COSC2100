@@ -5,8 +5,28 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ClassExercise1"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="Calculator Program" Height="325" Width="300">
 
-    </Grid>
+    <StackPanel Margin="10" VerticalAlignment="Center">
+        
+        <!-- Input 1 -->
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <Label Content="First Input:"
+                           VerticalAlignment="Center"/>
+            <TextBox x:Name="Input1TextBox" Width="150" Margin="5,0"
+                            TabIndex="0" ToolTip="Enter first number"/>
+
+        </StackPanel>
+
+        <!-- Input 2 -->
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <Label Content="Second Input:"
+                           VerticalAlignment="Center"/>
+            <TextBox x:Name="Input2TextBox" Width="150" Margin="5,0"
+                           TabIndex="0" ToolTip="Enter first number"/>
+
+        </StackPanel>
+
+    </StackPanel>
+               
 </Window>
